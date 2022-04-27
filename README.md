@@ -9,6 +9,7 @@
 ## 😁 You can also find me here
 - 🧧 [YouTube](https://youtube.com/c/kubaveldudek)
 - 📷 [Instagram](https://instagram.com/deska_dudka)
+- 📜 [My Github Page](https://kubaveldudek.github.io)
 
 <!---
 KubaVelDudek/KubaVelDudek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
