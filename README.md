@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Front-end webdev
 
 ## 🎮 My Hobbys
-- 🥋 Aikido (training for 11 years, 4 kyu)
+- 🥋 Aikido (training for 11 years, 4th kyu)
 - 🎨 Digital Art (drawing for fun, mostly comics)
 
 ## 😁 You can also find me here
