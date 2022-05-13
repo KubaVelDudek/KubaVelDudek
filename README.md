@@ -24,6 +24,7 @@
 - 🧧 [YouTube](https://youtube.com/c/kubaveldudek)
 - 📷 [Instagram](https://instagram.com/deska_dudka)
 - 📜 [My Github Page](https://kubaveldudek.github.io)
+- 🚗 [Google Local Guide](https://www.google.com/maps/contrib/100943047829494261938/photos/@52.7405903,17.8157298,7z/data=!3m1!4b1!4m3!8m2!3m1!1e1)
 
 <!---
 KubaVelDudek/KubaVelDudek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
