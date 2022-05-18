@@ -26,9 +26,6 @@
 - 📜 [My Github Page](https://kubaveldudek.github.io)
 - 🚗 [Google Local Guide](https://www.google.com/maps/contrib/100943047829494261938/photos/@52.7405903,17.8157298,7z/data=!3m1!4b1!4m3!8m2!3m1!1e1)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KubaVelDudek)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <!---
 KubaVelDudek/KubaVelDudek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
