@@ -15,7 +15,7 @@
       🥋Advanced Belts🥋
         ⬜White | 5th kyu
         ⬜White | 4th kyu (current)
-  ### 🎨 Digital Art (drawing for fun, mostly comics)
+  ### 🎨 Digital Art (drawing for fun, mostly pixel art and comics)
     💻Programs that I use :
       🌆Pixel Art: Aseprite
       👾Comics/Characters: Photoshop
